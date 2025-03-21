@@ -1,0 +1,1 @@
+Labs marked as Instructional are adapted from NetSquid source material copyright of QuTech @ TU Delft. Adapted from https://docs.netsquid.org/latest-release/ for academic use at Politecnico di Torino.
